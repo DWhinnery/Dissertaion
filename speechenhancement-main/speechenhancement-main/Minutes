@@ -1,0 +1,57 @@
+Meetings one
+    Aims for project
+    Problem description
+        Who
+        what 
+        when 
+        where 
+        why
+    intro
+Meeting two
+    Process on how system runs
+    order of operations 
+Meeting three
+    FFT 
+    How fft should be applied
+    How FFt works
+    Componets of FFt
+Meeting four
+    Pythag along side FFT 
+    How long frames should be
+    Use an overlap with frames
+Meeting five
+    Correction implemtation of FFT 
+    Further details on how FFT should be applied in the system
+    FFT should be input by user not hard coded
+    Create .txt file for values for later analysis
+Meeting six
+    Test that FFT works and correct values returned
+    Hamming window 
+    Why use hamming window 
+    How hamming winow fits into the system
+Meeting seven
+    Details on additional things to include in extended problem description
+    Check that hamming window implemneted correctly and correct values returned
+Meeting eight
+    Inverse FFT 
+    How iFFT works
+    Why ifft is used 
+    How to calcuate phase of magnitude
+    Why we use the phase
+Meeting nine
+    Method which speech enhancment will be achived
+    How spectral subtraction works
+Meeting ten
+    Details on sections to include in report
+    More detials on spectral subtraction 
+    New class where system calculates averages and subtracts average
+Meeting eleven
+    How spectral subtraction should be implemnted into the system
+    New array to store new values
+Meeting tweleve
+    Check that spectral subtraction implemneted correctly
+    More details on how spectral subtraction could be implemneted correctly
+Meeting Thirteen
+    Check that enhanced speech is outputted and correct values outputted
+    Further guidance on report
+

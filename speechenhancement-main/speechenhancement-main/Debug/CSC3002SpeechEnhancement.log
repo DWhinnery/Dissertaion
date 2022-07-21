@@ -1,0 +1,7 @@
+﻿  main.cpp
+  FFT.cpp
+C:\CS Final year\CSC3002\CSC3002SpeechEnhancement\FFT.cpp(21,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\CS Final year\CSC3002\CSC3002SpeechEnhancement\FFT.cpp(29,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\CS Final year\CSC3002\CSC3002SpeechEnhancement\FFT.cpp(35,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CSC3002SpeechEnhancement.vcxproj -> C:\CS Final year\CSC3002\CSC3002SpeechEnhancement\Debug\CSC3002SpeechEnhancement.exe
